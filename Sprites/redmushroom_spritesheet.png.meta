@@ -1,0 +1,884 @@
+fileFormatVersion: 2
+guid: ab162e166835aef4e8e4238e7f41df77
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3031548978361982215
+    second: redmushroom_spritesheet_0
+  - first:
+      213: 755414852315720654
+    second: redmushroom_spritesheet_1
+  - first:
+      213: -5591665477291765463
+    second: redmushroom_spritesheet_2
+  - first:
+      213: -5725530981176652193
+    second: redmushroom_spritesheet_3
+  - first:
+      213: 113841679202666190
+    second: redmushroom_spritesheet_4
+  - first:
+      213: 5082557388258750970
+    second: redmushroom_spritesheet_5
+  - first:
+      213: -2323031880036797944
+    second: redmushroom_spritesheet_6
+  - first:
+      213: -7262195835038981349
+    second: redmushroom_spritesheet_7
+  - first:
+      213: -2425948288383601305
+    second: redmushroom_spritesheet_8
+  - first:
+      213: 290509735703580310
+    second: redmushroom_spritesheet_9
+  - first:
+      213: 7688094726796785782
+    second: redmushroom_spritesheet_10
+  - first:
+      213: -417369341545878022
+    second: redmushroom_spritesheet_11
+  - first:
+      213: 606463014573692133
+    second: redmushroom_spritesheet_12
+  - first:
+      213: 2606592996375786139
+    second: redmushroom_spritesheet_13
+  - first:
+      213: 7167256975841975903
+    second: redmushroom_spritesheet_14
+  - first:
+      213: -3937807184716606915
+    second: redmushroom_spritesheet_15
+  - first:
+      213: -3376502740388967464
+    second: redmushroom_spritesheet_16
+  - first:
+      213: -8326156346398636
+    second: redmushroom_spritesheet_17
+  - first:
+      213: 407526505889526040
+    second: redmushroom_spritesheet_18
+  - first:
+      213: 7636903038814898195
+    second: redmushroom_spritesheet_19
+  - first:
+      213: -5746799474847386783
+    second: redmushroom_spritesheet_20
+  - first:
+      213: -8295676860972399695
+    second: redmushroom_spritesheet_21
+  - first:
+      213: 8859473850715563648
+    second: redmushroom_spritesheet_22
+  - first:
+      213: -8548217101109246885
+    second: redmushroom_spritesheet_23
+  - first:
+      213: -900600894816351252
+    second: redmushroom_spritesheet_24
+  - first:
+      213: 2510461265248671844
+    second: redmushroom_spritesheet_25
+  - first:
+      213: -7395959795602173090
+    second: redmushroom_spritesheet_26
+  - first:
+      213: -7416863048698263049
+    second: redmushroom_spritesheet_27
+  - first:
+      213: -4031408429846977311
+    second: redmushroom_spritesheet_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: redmushroom_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 895
+        width: 115
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f229891446cde5d0800000000000000
+      internalID: -3031548978361982215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmushroom_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 895
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb255a4ec5cb7a00800000000000000
+      internalID: 755414852315720654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmushroom_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 895
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9219533dfd96662b0800000000000000
+      internalID: -5591665477291765463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmushroom_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 895
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ec87468e3da80b0800000000000000
+      internalID: -5725530981176652193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmushroom_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 895
+        width: 116
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec642817762749100800000000000000
+      internalID: 113841679202666190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmushroom_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 818
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af133bd140fd88640800000000000000
+      internalID: 5082557388258750970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmushroom_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 841
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802bf7420dee2cfd0800000000000000
+      internalID: -2323031880036797944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmushroom_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 818
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b132e236d5f773b90800000000000000
+      internalID: -7262195835038981349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmushroom_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 767
+        width: 109
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765bd6b82ec455ed0800000000000000
+      internalID: -2425948288383601305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmushroom_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 767
+        width: 110
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e8760c019180400800000000000000
+      internalID: 290509735703580310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmushroom_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 767
+        width: 113
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678b646bb6991ba60800000000000000
+      internalID: 7688094726796785782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmushroom_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 767
+        width: 94
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afde4019bc4353af0800000000000000
+      internalID: -417369341545878022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmushroom_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 797
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4d31906e69a6800800000000000000
+      internalID: 606463014573692133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmushroom_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 645
+        width: 97
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92fff6158a7c2420800000000000000
+      internalID: 2606592996375786139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmushroom_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 645
+        width: 106
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e500bee36377360800000000000000
+      internalID: 7167256975841975903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmushroom_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 646
+        width: 106
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d325cf89a391a59c0800000000000000
+      internalID: -3937807184716606915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmushroom_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 650
+        width: 108
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db8bf7a5a04421d0800000000000000
+      internalID: -3376502740388967464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmushroom_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 654
+        width: 107
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458e0a8a76b62eff0800000000000000
+      internalID: -8326156346398636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmushroom_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 648
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811f91ca233d7a500800000000000000
+      internalID: 407526505889526040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmushroom_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 511
+        width: 112
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318c9ac0adabbf960800000000000000
+      internalID: 7636903038814898195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmushroom_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 511
+        width: 113
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163f15253544f30b0800000000000000
+      internalID: -5746799474847386783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmushroom_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 511
+        width: 110
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3005ae8d5dfdc80800000000000000
+      internalID: -8295676860972399695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmushroom_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 511
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08663c8178c23fa70800000000000000
+      internalID: 8859473850715563648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmushroom_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 383
+        width: 110
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b54c67146d1ae5980800000000000000
+      internalID: -8548217101109246885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmushroom_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 383
+        width: 115
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb821cf14c6083f0800000000000000
+      internalID: -900600894816351252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmushroom_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 383
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46856814833f6d220800000000000000
+      internalID: 2510461265248671844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmushroom_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 383
+        width: 119
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53df0a50c54c5990800000000000000
+      internalID: -7395959795602173090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmushroom_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 383
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f98e9a7a52021990800000000000000
+      internalID: -7416863048698263049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redmushroom_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 383
+        width: 121
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4a472746f8d08c0800000000000000
+      internalID: -4031408429846977311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      redmushroom_spritesheet_0: -3031548978361982215
+      redmushroom_spritesheet_1: 755414852315720654
+      redmushroom_spritesheet_10: 7688094726796785782
+      redmushroom_spritesheet_11: -417369341545878022
+      redmushroom_spritesheet_12: 606463014573692133
+      redmushroom_spritesheet_13: 2606592996375786139
+      redmushroom_spritesheet_14: 7167256975841975903
+      redmushroom_spritesheet_15: -3937807184716606915
+      redmushroom_spritesheet_16: -3376502740388967464
+      redmushroom_spritesheet_17: -8326156346398636
+      redmushroom_spritesheet_18: 407526505889526040
+      redmushroom_spritesheet_19: 7636903038814898195
+      redmushroom_spritesheet_2: -5591665477291765463
+      redmushroom_spritesheet_20: -5746799474847386783
+      redmushroom_spritesheet_21: -8295676860972399695
+      redmushroom_spritesheet_22: 8859473850715563648
+      redmushroom_spritesheet_23: -8548217101109246885
+      redmushroom_spritesheet_24: -900600894816351252
+      redmushroom_spritesheet_25: 2510461265248671844
+      redmushroom_spritesheet_26: -7395959795602173090
+      redmushroom_spritesheet_27: -7416863048698263049
+      redmushroom_spritesheet_28: -4031408429846977311
+      redmushroom_spritesheet_3: -5725530981176652193
+      redmushroom_spritesheet_4: 113841679202666190
+      redmushroom_spritesheet_5: 5082557388258750970
+      redmushroom_spritesheet_6: -2323031880036797944
+      redmushroom_spritesheet_7: -7262195835038981349
+      redmushroom_spritesheet_8: -2425948288383601305
+      redmushroom_spritesheet_9: 290509735703580310
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
