@@ -39,7 +39,10 @@ public class EnemySpawner : MonoBehaviour
         int randomIndex = Random.Range(0, enemyPrefabs.Length);
         GameObject enemyToSpawn = enemyPrefabs[randomIndex];
 
-        Vector3 spawnPos = new Vector3(player.position.x + 20f, groundY, 0f);
+        // Ambil posisi batas kanan kamera
+        float rightBound = Camera.main.ViewportToWorldPoint(new Vector3(1, 0, 0)).x;
+
+        Vector3 spawnPos = new Vector3(rightBound + 2f, groundY, 0f);
         Instantiate(enemyToSpawn, spawnPos, Quaternion.identity);
         Debug.Log("Spawned enemy at " + spawnPos);
     }

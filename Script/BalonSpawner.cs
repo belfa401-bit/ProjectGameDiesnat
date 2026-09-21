@@ -3,7 +3,7 @@ using UnityEngine;
 public class BalonSpawner : MonoBehaviour
 {
     public GameObject balonPrefab;
-    public float spawnInterval = 4f;  // jeda spawn (detik)
+    public float spawnInterval = 10f;  // jeda spawn (detik)
     private float timer;
 
     void Update()

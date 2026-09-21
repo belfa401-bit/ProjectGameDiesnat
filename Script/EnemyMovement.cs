@@ -18,8 +18,11 @@ public class EnemyMovement : MonoBehaviour
 
     void Update()
     {
-        // Hapus kalau keluar layar
-        if (transform.position.x < -30f)
+        // Ambil posisi batas kiri kamera
+        float leftBound = Camera.main.ViewportToWorldPoint(new Vector3(0, 0, 0)).x;
+
+        // Hapus kalau sudah keluar layar (lebih kecil dari batas kiri kamera)
+        if (transform.position.x < leftBound - 2f) // -2f biar aman sedikit di luar layar
         {
             Destroy(gameObject);
         }

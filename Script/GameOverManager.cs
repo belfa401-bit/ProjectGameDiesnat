@@ -4,14 +4,15 @@ using UnityEngine.SceneManagement;
 public class GameOverManager : MonoBehaviour
 {
     public GameObject gameOverPanel;
-    public GameObject distanceText; // drag DistanceText UI ke sini lewat Inspector
+    public GameObject distanceText; 
 
     public void ShowGameOver()
     {
-        // tampilkan panel game over
+        // 🚨 Tambahan: jangan munculkan GameOver kalau lagi minigame
+        if (GameFlow.isInMiniGame) return;
+
         gameOverPanel.SetActive(true);
 
-        // sembunyikan DistanceText
         if (distanceText != null)
         {
             distanceText.SetActive(false);
@@ -22,13 +23,11 @@ public class GameOverManager : MonoBehaviour
     {
         Time.timeScale = 1f;
 
-        // aktifkan lagi DistanceText sebelum reload
         if (distanceText != null)
         {
             distanceText.SetActive(true);
         }
 
-        // reload scene
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 }

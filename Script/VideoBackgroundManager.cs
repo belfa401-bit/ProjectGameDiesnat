@@ -4,31 +4,12 @@ using UnityEngine.Video;
 public class VideoBackgroundManager : MonoBehaviour
 {
     public VideoPlayer videoPlayer;
-    public VideoClip dayClip;
-    public VideoClip eveningClip;
-    public VideoClip nightClip;
+    public VideoClip fullCycleClip; // video berisi siang-sore-malam
 
-    public Transform player;
-    public float eveningDistance = 500f;
-    public float nightDistance = 1000f;
-
-    void Update()
+    void Start()
     {
-        float distance = player.position.x;
-
-        if (distance >= nightDistance && videoPlayer.clip != nightClip)
-        {
-            ChangeBackground(nightClip);
-        }
-        else if (distance >= eveningDistance && videoPlayer.clip != eveningClip)
-        {
-            ChangeBackground(eveningClip);
-        }
-    }
-
-    void ChangeBackground(VideoClip newClip)
-    {
-        videoPlayer.clip = newClip;
+        videoPlayer.clip = fullCycleClip;
+        videoPlayer.isLooping = true; // otomatis loop
         videoPlayer.Play();
     }
 }

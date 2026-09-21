@@ -2,17 +2,17 @@ using UnityEngine;
 
 public class PlayerCollision : MonoBehaviour
 {
-    public GameObject gameOverUI; // drag GameOverUI ke slot Inspector
+    public HealthManager healthManager; // ini bikin slot muncul di Inspector
 
     void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("Enemy"))
         {
-            // Matikan player
-            gameObject.SetActive(false);
-
-            // Tampilkan UI Game Over
-            gameOverUI.SetActive(true);
+            if (healthManager != null)
+            {
+                healthManager.TakeDamage(1);
+            }
+            Destroy(collision.gameObject);
         }
     }
 }
